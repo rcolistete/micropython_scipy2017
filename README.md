@@ -28,5 +28,6 @@ The MicroPython sprint has the following microcontroller boards available :
 * 2 LoPy (LoRa, WiFi, Bluetooth);
 * 11 ESP8266/WeMos D1 Mini (WiFi)
 * 2 BBC Micro:bit (Bluetooth)
+* 1 OpenMV CAM M7
 * 1 Teensy 3.5 (community port of MicroPython).
 As well many sensors like BME280, etc.
