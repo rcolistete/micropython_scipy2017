@@ -1,6 +1,16 @@
 # MicroPython sprint at SciPy 2017
 Austin-TX, July 15-16th 2017
 
+The MicroPython sprint goal is to live demonstrate MicroPython to new users and attract new developers to contribute to scientific MicroPython modules, for example, by porting/adapting scientific Python 3 modules.  
+
+This sprint is the first opportunity in SciPy history to practice :
+- MicroPython on real microcontroller boards;
+- connecting to sensors and actuators;
+- processing sensor data with scientific MicroPython modules (statistics, error propagation, FFT, etc);
+- IoT (Internet of Things) using WiFi and/or LoRa to publish sensor data;
+- creating new MicroPython modules, from scratch or converting/adapting from scientific Python 3 modules;
+- contributing to the MicroPython community.
+
 First look at the [**"Scientific MicroPython on Microcontrollers and IoT" talk**](http://www.robertocolistete.net/MicroPythonSciPy2017/#/) given on July 13th 2017, where MicroPython is presented and all official MicroPython boards are cited.
 
 To read more about MicroPython :
