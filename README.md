@@ -22,11 +22,11 @@ To read more about MicroPython :
 
 What is need to use MicroPython boards ? Bring your computer and (if possible) a USB-microUSB cable (many will be available in the MicroPython sprint). On your computer, [install a terminal software (Putty, screen, etc) to connect to the MicroPython board using the USB-microUSB cable](http://docs.micropython.org/en/latest/pyboard/pyboard/tutorial/repl.html). 
 
-The MicroPython sprint has the following microprocessors boards available :
+The MicroPython sprint has the following microcontroller boards available :
 * 3 Pyboards
 * 1 WiPy 1 (WiFi), 1 WiPy 2 (WiFi, Bluetooth)
 * 2 LoPy (LoRa, WiFi, Bluetooth);
 * 11 ESP8266/WeMos D1 Mini (WiFi)
 * 2 BBC Micro:bit (Bluetooth)
-* 1 Teensy 3.5 (not official board for MicroPython).
+* 1 Teensy 3.5 (community port of MicroPython).
 As well many sensors like BME280, etc.
