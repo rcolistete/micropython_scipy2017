@@ -26,9 +26,9 @@ Documentation about MicroPython :
 * [MicroPython documentation (for OpenMV CAM M4/M7)](http://docs.openmv.io/)
 
 Some MicroPython forums :
-* [MicroPython forum (for Pyboard, WiPy 1, ESP8266, ESP32, BBC Micro:bit](https://forum.micropython.org/)
-* [Pycom MicroPython forum (for WiPy 2, LoPy, SiPy and new boards](https://forum.pycom.io/)
-* [OpenMV CAM MicroPython forum (for WiPy 2, LoPy, SiPy and new boards](http://forums.openmv.io/)
+* [MicroPython forum (for Pyboard, WiPy 1, ESP8266, ESP32, BBC Micro:bit)](https://forum.micropython.org/)
+* [Pycom MicroPython forum (for WiPy 2, LoPy, SiPy and new boards)](https://forum.pycom.io/)
+* [OpenMV CAM MicroPython forum (for WiPy 2, LoPy, SiPy and new boards)](http://forums.openmv.io/)
 
 ### Using real MicroPython boards on MicroPython sprint
 
