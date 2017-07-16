@@ -3,7 +3,7 @@ Austin-TX, July 15-16th 2017
 
 The MicroPython sprint goal is to live demonstrate MicroPython to new users and attract new developers to contribute to scientific MicroPython modules, for example, by porting/adapting scientific Python 3 modules.  
 
-### Goals :
+### Goals
 
 This sprint is the first opportunity in SciPy history to practice :
 - MicroPython on real microcontroller boards;
@@ -42,4 +42,5 @@ The MicroPython sprint has the following microcontroller boards available :
 * 2 BBC Micro:bit (Bluetooth)
 * 1 OpenMV CAM M7
 * 1 Teensy 3.5 (community port of MicroPython).
-As well many sensors like BME280, etc.
+
+Also many sensors are available like BME280 (pressure, humidity, temperature), SI1145 (ultraviolet, visible and infrared light). etc, as well small displays.
